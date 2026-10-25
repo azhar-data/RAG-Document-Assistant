@@ -77,4 +77,4 @@ RAG-Document-Assistant/
 ## Author
 **Muhammad Azhar**
 - GitHub: https://github.com/azhar-data
-- LinkedIn: https://www.linkedin.com/in/muhammad-azhar-ai-engineer
+- LinkedIn: https://www.linkedin.com/in/azhar-ai-engineer
