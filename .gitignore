@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.coverage
+
+# Local vector databases / uploaded documents
+.chroma/
+chroma_db/
+data/*
+!data/.gitkeep
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db
